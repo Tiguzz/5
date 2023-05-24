@@ -1,0 +1,202 @@
+#EXTM3U
+#EXTINF:0 type="stream" channelId="1175", SKYNEWS
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/06.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://i.imgur.com/HbOrvOn.jpg", CBSN
+http://cbsnewshd-lh.akamaihd.net:80/i/CBSNHD_7@199302/index_1200_av-b.m3u8
+#EXTINF:0 type="stream" channelId="2883", CNN
+http://92.43.140.249/s27/04.m3u8
+#EXTINF:0 type="stream" channelId="527" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1280px-CNBC_logo.svg.png", CNBC
+http://ott-cdn.ucom.am/s65/04.m3u8
+#EXTINF:0 type="stream" channelId="118", BBC World News
+http://92.43.140.249/s24/04.m3u8
+#EXTINF:0 type="stream" channelId="139", FRANCE 24
+http://f24hls-i.akamaihd.net/hls/live/221192/F24_FR_LO_HLS/master_900.m3u8
+#EXTINF:0 type="stream" channelId="119", BLOOMBERG
+https://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-700-1_live.m3u8
+#EXTINF:0 type="stream" channelId="1188", E!
+http://210.210.155.35/uq2663/h/h10/01.m3u8
+#EXTINF:0 type="stream" channelId="280", Fashion TV
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/playlist.m3u8
+#EXTINF:0 type="stream" channelId="935", HBO 2
+http://161.0.157.5/PLTV/88888888/224/3221227026/index.m3u8?fluxustv.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="http://www.pngmart.com/files/4/Hollywood-Sign-PNG-Photos.png", Hollywood Movies
+http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://www.transvision.co.id/img/channel/cinema_world_black.png", Cinema World
+http://210.210.155.35/session/3e87cff6-7c80-11e8-9332-b82a72d63267/uq2663/h/h04/index1.m3u8
+#EXTINF:0 type="stream" channelId="2540", ESPN
+https://cvtv.cvalley.net/hls/ESPNHD/ESPNHD.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png", Fox Sport
+https://tvrealtime.com/live/FOXSPORT1/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://i.imgur.com/d9BFa0l.png", Tennis Channel
+https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8?fluxustv.m3u8
+#EXTINF:0 type="stream" channelId="1197", Disney Junior
+https://content-ause4.uplynk.com/channel/2696c852412a4041ba3b771e0a5e3c74/h.m3u8?exp=1557726334&ct=c&cid=2696c852412a4041ba3b771e0a5e3c74&iph=dfedfaaeca06c9f40140cd2a0ac49a55790c044d07d90e043edad3ab32e2f603&rays=hjigfedcba&euid=5F8C9D89-CA39-4C23-9A6B-2A6A0A145CCB_013_1_001_live_04-06-99_1.1.1.15&cdn=ec&stgcfg=datg&pp2ip=0&delay=10800&ddp=1&expand=drmOff&v=3&sig=a07044f5b44c510bab5cd40a76b8b5839f0711064f090d2747280ebd7798e0dc&pbs=377d94b7fb794124b73c58474a01270a
+#EXTINF:0 type="stream" channelId="177", FOX
+https://mn-nl.mncdn.com/blutv_live/foxtvhd/foxtvhd.smil/chunklist_b1596000_sltur.m3u8?
+#EXTINF:0 type="stream" channelId="1201", H2
+http://livecdnh1.tvanywhere.ae:80/hls/h2/05.m3u8
+#EXTINF:0 type="stream" channelId="56", National Geographic
+http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8
+#EXTINF:0 type="stream" channelId="2254", Nat Geo People
+http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_people/05.m3u8
+#EXTINF:0 type="stream" channelId="164", Nat Geo Wild
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
+#EXTINF:0 type="stream" channelId="2583", HBO Signature
+http://streaminglist.live:8080/live/adrianoreis29@hotmail.com/UsBLOV/1777.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR44-W_VZ6Ua8hooUa4uYeD7RHbvZ8JFgOqBKmME_kK_f4ofykH", HBO Hit HD
+https://tv.xpeer-cdn.com/02_HBOHit_720p/chunklist.m3u8
+#EXTINF:0 type="stream" channelId="1719", Paramount
+http://streaminglist.live:8080/live/adrianoreis29@hotmail.com/UsBLOV/1821.m3u8
+#EXTINF:0 type="stream" channelId="2273", Rai 5 HD
+http://b2everyrai-lh.akamaihd.net:80/i/rai5_1@182695/master.m3u8
+#EXTINF:0 type="stream" channelId="1000", Rai 1
+http://ott-cdn.ucom.am/s29/04.m3u8
+#EXTINF:0 type="stream" channelId="140", TV5 Monde
+http://livecdnh1.tvanywhere.ae:80/hls/tv5/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://i.imgur.com/RuFISFk.png", TV7 Colmar
+http://tv7.hdr-tv.com:1935/live/tv7/livestream/playlist.m3u8
+#EXTINF:0 type="stream" channelId="143", RT News
+https://www.youtube.com/watch?v=IFAcqaNzNSc
+#EXTINF:0 type="stream" channelId="397", NHK World
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp/index_1180.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://i.imgur.com/Ya4yHpC.jpg", NTV News24
+http://n24-cdn-live-b.ntv.co.jp/ch01/High.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://pngimage.net/wp-content/uploads/2018/05/antena-3-hd-png-8.png", Antena 3 HD
+https://livestartover-i.akamaized.net/antena3/master.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/CCTV_7_%E5%9B%BD%E9%98%B2_%E5%86%9B%E4%BA%8B.png", CCTV7
+http://117.148.187.37/PLTV/88888888/224/3221226470/index.m3u8
+#EXTINF:0 type="stream" channelId="940", CCTV 9
+http://223.110.241.204:6610/gitv/live1/G_CCTV-9/G_CCTV-9/
+#EXTINF:0 type="stream" channelId="-1" logo="https://i.imgur.com/YgRz2Cc.png", Movie Kingdom
+https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://upload.wikimedia.org/wikipedia/en/c/c6/Music_Choice_logo.png", Music Choice
+http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
+#EXTINF:0 type="stream" channelId="98", ZDF
+http://kanali.ddns.net:25461/tvdeutsch/tvdeutsch/1359
+#EXTINF:0 type="stream" channelId="-1" logo="https://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_320.png", PremierHD1
+https://tvrealtime.com/live/BEIN1/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTLzefgY32G86X_iodWFKPK-mQGL4xMEpFPhiV0HMpA4GsVBBrb", Thairat TV
+http://live.thairath.co.th/trtv/playlist.m3u8
+
+
+
+
+#EXTINF:0, PremierHD1
+https://tv.xpeer-cdn.com/02_PremierHD1_720p/chunklist.m3u8
+#EXTINF:0, PremierHD2
+https://tv.xpeer-cdn.com/02_PremierHD2_720p/chunklist.m3u8
+#EXTINF:0, PremierHD3
+https://tv.xpeer-cdn.com/02_PremierHD3_720p/chunklist.m3u8
+#EXTINF:0, PremierHD4
+https://tv.xpeer-cdn.com/02_PremierHD4_720p/chunklist.m3u8
+#EXTINF:0, PremierHD5
+https://tv.xpeer-cdn.com/02_PremierHD5_720p/chunklist.m3u8
+#EXTINF:0, SkynetsportHD
+https://tv.xpeer-cdn.com/03_skynetsporthd_720p/chunklist.m3u8
+#EXTINF:0, Skynetsport1
+https://tv.xpeer-cdn.com/03_skynetsport1_480p/chunklist.m3u8
+#EXTINF:0, Skynetsport2
+https://tv.xpeer-cdn.com/03_skynetsport2_480p/chunklist.m3u8
+#EXTINF:0, Skynetsport3
+https://tv.xpeer-cdn.com/03_skynetsport3_480p/chunklist.m3u8
+#EXTINF:0, Skynetsport4
+https://tv.xpeer-cdn.com/03_skynetsport4_480p/chunklist.m3u8
+#EXTINF:0, Skynetsport5
+https://tv.xpeer-cdn.com/03_skynetsport5_480p/chunklist.m3u8
+#EXTINF:0, Skynetsport6
+https://tv.xpeer-cdn.com/03_skynetsport6_480p/chunklist.m3u8
+#EXTINF:0, Bein1
+https://tv.xpeer-cdn.com/02_epl1_720p/chunklist.m3u8
+#EXTINF:0, Bein2
+https://tv.xpeer-cdn.com/02_epl2_720p/chunklist.m3u8
+#EXTINF:0, True Sport HD1
+https://tv.xpeer-cdn.com/02_2sporthd1_720p/chunklist.m3u8
+#EXTINF:0, True Sport HD2
+https://tv.xpeer-cdn.com/02_2sporthd2_720p/chunklist.m3u8
+#EXTINF:0, True Sport HD3
+https://tv.xpeer-cdn.com/02_2sporthd3_720p/chunklist.m3u8
+#EXTINF:0, Fox Sport1
+https://tv.xpeer-cdn.com/02_foxsport_720p/chunklist.m3u8
+#EXTINF:0, Fox Sport2
+https://tv.xpeer-cdn.com/02_FoxSport2_TH_720p/chunklist.m3u8
+#EXTINF:0, Fox Sport3
+https://tv.xpeer-cdn.com/02_FoxSport3_TH_720p/chunklist.m3u8
+#EXTINF:0, Tennis HD
+https://tv.xpeer-cdn.com/02_TennisHD_720p/chunklist.m3u8
+#EXTINF:0, NBA HD
+https://tv.xpeer-cdn.com/02_nbahd_720p/chunklist.m3u8
+#EXTINF:0, Golf HD
+https://tv.xpeer-cdn.com/02_golfhd_720p/chunklist.m3u8
+#EXTINF:0, HBO HD
+https://tv.xpeer-cdn.com/02_HBOHD_720p/chunklist.m3u8
+#EXTINF:0, HBO Hit
+https://tv.xpeer-cdn.com/02_HBOHit_720p/chunklist.m3u8
+#EXTINF:0, HBOSignature
+https://tv.xpeer-cdn.com/02_HBOSignature_720p/chunklist.m3u8
+#EXTINF:0, FoxActionHD_TH
+https://tv.xpeer-cdn.com/02_FoxActionHD_TH_720p/chunklist.m3u8
+#EXTINF:0, FoxActionHD
+https://tv.xpeer-cdn.com/02_FoxActionHD_720p/chunklist.m3u8
+#EXTINF:0, FoxMovies_TH
+https://tv.xpeer-cdn.com/02_FoxMoviesTH_720p/chunklist.m3u8
+#EXTINF:0, FoxMovies
+https://tv.xpeer-cdn.com/02_FoxMoviesHD_720p/chunklist.m3u8
+#EXTINF:0, FoxFamilyHD_TH
+https://tv.xpeer-cdn.com/02_FoxFamilyHD_TH_720p/chunklist.m3u8
+#EXTINF:0, FoxFamilyHD
+https://tv.xpeer-cdn.com/02_FoxFamilyHD_720p/chunklist.m3u8
+#EXTINF:0, FoxThai_TH
+https://tv.xpeer-cdn.com/02_FoxThai_TH_720p/chunklist.m3u8
+#EXTINF:0, FoxThai
+https://tv.xpeer-cdn.com/02_FoxThai_720p/chunklist.m3u8
+#EXTINF:0, FoxCrimeHD_TH
+https://tv.xpeer-cdn.com/02_FoxCrimeHD_TH_720p/chunklist.m3u8
+#EXTINF:0, FoxCrimeHD
+https://tv.xpeer-cdn.com/02_FoxCrimeHD_720p/chunklist.m3u8
+#EXTINF:0, RedbyHBO
+https://tv.xpeer-cdn.com/02_RedbyHBO_720p/chunklist.m3u8
+#EXTINF:0, AXN HD
+https://tv.xpeer-cdn.com/02_AXNHD_720p/chunklist.m3u8
+#EXTINF:0, WarnerTV HD
+https://tv.xpeer-cdn.com/02_WarnerTVHD_720p/chunklist.m3u8
+#EXTINF:0, FXThailand
+https://tv.xpeer-cdn.com/02_FXThailand_720p/chunklist.m3u8
+#EXTINF:0, TrueFilmHD1
+https://tv.xpeer-cdn.com/02_TrueFilmHD1_720p/chunklist.m3u8
+#EXTINF:0, TrueFilmHD2
+https://tv.xpeer-cdn.com/02_TrueFilmHD2_720p/chunklist.m3u8
+#EXTINF:0, HISTORY HD
+https://tv.xpeer-cdn.com/02_HISTORYHD_720p/chunklist.m3u8
+#EXTINF:0, H2 HD
+https://tv.xpeer-cdn.com/02_H2HD_720p/chunklist.m3u8
+#EXTINF:0, DiscoveryChannel
+https://tv.xpeer-cdn.com/02_DiscoveryChannel/chunklist.m3u8
+#EXTINF:0, DiscoveryHDWorld
+https://tv.xpeer-cdn.com/02_DiscoveryHDWorld/chunklist.m3u8
+#EXTINF:0, NatGeoHD_TH
+https://tv.xpeer-cdn.com/02_NatGeoHD_TH_720p/chunklist.m3u8
+#EXTINF:0, NatGeoHD
+https://tv.xpeer-cdn.com/02_NatGeoHD_720p/chunklist.m3u8
+#EXTINF:0, NatGeoWild_TH
+https://tv.xpeer-cdn.com/02_NatGeoWild_TH_720p/chunklist.m3u8
+#EXTINF:0, NatGeoWild
+https://tv.xpeer-cdn.com/02_NatPeopleHD_720p/chunklist.m3u8
+#EXTINF:0, NatGeoWild
+https://tv.xpeer-cdn.com/02_NatGeoWild_720p/chunklist.m3u8
+#EXTINF:0, AnimalPlanet
+https://tv.xpeer-cdn.com/02_AnimalPlanet/chunklist.m3u8
+#EXTINF:0, Sumrujlok
+https://tv.xpeer-cdn.com/sumrujlok_goodtv/chunklist.m3u8
+#EXTINF:0, CartoonNetwork
+https://tv.xpeer-cdn.com/02_CartoonNetwork_720p/chunklist.m3u8
+#EXTINF:0, DisneyXD
+https://tv.xpeer-cdn.com/02_DisneyXD_720p/chunklist.m3u8
+
+
+
+
+
+
+
+
+
